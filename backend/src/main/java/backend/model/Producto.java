@@ -76,7 +76,5 @@ public class Producto {
 
     public void setCategoria(Category categoria) {
         this.categoria = categoria;
-    }
-
-    
+    }    
 }

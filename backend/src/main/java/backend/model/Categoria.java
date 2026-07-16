@@ -48,5 +48,4 @@ public class Categoria {
     public void setProducos(ArrayList<Producto> producos) {
         this.producos = producos;
     }
-
 }
