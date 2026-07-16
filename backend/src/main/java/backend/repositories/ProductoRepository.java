@@ -7,5 +7,5 @@ import org.springframework.stereotype.Repository;
 @Repository
 public interface ProductoRepository {
     boolean existsBySku(String sku);
-    
+    //boolean existsBySkuAndIdNot(String sku, Long id); para validar SKU al actualizar
 }
