@@ -20,6 +20,16 @@ EJEMPLO PARA CREAR UN PRODUCTO:
 
 {
 
-    
+    id: 1;
+
+    nombre: Computadora;
+
+    precio: 15000;
+
+    stock: 10;
+
+    sku: LAP4132;
+
+    categoria: electronica;
 
 }
